@@ -1,0 +1,11 @@
+baseURL = 'https://vikumbandara.github.io/'
+locale = 'en-us'
+title = 'Vikum Bandara'
+theme = 'hugo-theme-console'
+
+[params]
+  animateStyle = ''
+
+  [[params.navlinks]]
+    name = 'About'
+    url = '/about/'
