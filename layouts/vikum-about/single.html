@@ -4,29 +4,41 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
+
   <title>{{ .Title }} | Vikum Bandara</title>
   <meta name="description" content="{{ .Description }}">
   <link rel="canonical" href="{{ .Permalink }}">
+
   <script>
     try {
       const preference = localStorage.getItem('vikum-color-theme');
       if (preference === 'light' || preference === 'dark') {
         document.documentElement.dataset.theme = preference;
       }
-    } catch (error) { /* The page also works when storage is unavailable. */ }
+    } catch (error) {
+      /* The page also works when storage is unavailable. */
+    }
   </script>
+
   <link rel="stylesheet" href="{{ "css/vikum-about.css" | relURL }}">
   <script src="{{ "js/vikum-about.js" | relURL }}" defer></script>
 </head>
+
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
+
   <div class="site-shell">
     <header class="site-header">
       <div class="terminal-path" aria-label="Site location">
-        <a class="site-name" href="{{ "" | relURL }}">Vikum Bandara</a><span class="prompt" aria-hidden="true">:~$</span>
-        <a class="path-name" href="{{ .RelPermalink }}">about</a><span aria-hidden="true">/</span><span class="cursor" aria-hidden="true"></span>
+        <a class="site-name" href="{{ "" | relURL }}">Vikum Bandara</a>
+        <span class="prompt" aria-hidden="true">:~$</span>
+        <a class="path-name" href="{{ .RelPermalink }}">about</a>
+        <span aria-hidden="true">/</span>
+        <span class="cursor" aria-hidden="true"></span>
       </div>
+
       <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ "" | relURL }}">Home</a>
         <a href="{{ .RelPermalink }}" aria-current="page">About</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
@@ -40,13 +52,23 @@
     </main>
 
     <footer class="site-footer">
+      <a href="{{ "" | relURL }}">Home</a>
       <a href="https://github.com/vikumvbandara">GitHub</a>
       <a href="mailto:vbandar@clemson.edu">vbandar@clemson.edu</a>
-      <a href="{{ "papers/vikum-bandara-cv.pdf" | relURL }}">View my CV <span aria-hidden="true">↗</span></a>
+      <a href="{{ "papers/vikum-bandara-cv.pdf" | relURL }}">
+        View my CV <span aria-hidden="true">↗</span>
+      </a>
     </footer>
   </div>
 
-  <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false" title="Toggle dark mode" hidden>
+  <button
+    class="theme-toggle"
+    type="button"
+    aria-label="Toggle dark mode"
+    aria-pressed="false"
+    title="Toggle dark mode"
+    hidden
+  >
     <span aria-hidden="true">◐</span>
   </button>
 </body>
