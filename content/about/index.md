@@ -96,7 +96,20 @@ I also worked with Dr. Rajitha Ranasinghe on graph-labeling constructions for sy
 
 ## Teaching
 
-Since January 2025, I have taught **Business Calculus I (MATH 1020)** at Clemson as a Graduate Teacher of Record. Previously, I served as a teaching assistant at Clemson and the University of Peradeniya, supporting courses in precalculus, calculus, differential equations, and linear algebra.
+### Graduate Teacher of Record — Clemson University
+**January 2025–Present**
+
+I teach **Business Calculus I (MATH 1020)**, explaining mathematical concepts and their applications in business.
+
+### Graduate Teaching Assistant — Clemson University
+**August 2023–December 2024**
+
+I supported courses in precalculus, calculus, differential equations, and linear algebra.
+
+### Demonstrator — University of Peradeniya
+**September 2022–April 2023**
+
+I worked as a Demonstrator at the University of Peradeniya, supporting undergraduate teaching.
 
 Alongside my academic work, I’m interested in applying mathematical and computational methods to quantitative research in financial markets.
 
