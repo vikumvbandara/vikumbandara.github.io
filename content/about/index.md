@@ -1,31 +1,28 @@
-\---
-
+---
 title: "About"
 type: "vikum-about"
 draft: false
 description: "Vikum Bandara — mathematics researcher and educator at Clemson University, working in combinatorics, discrete dynamics, and cryptography."
 coursework:
-
-* institution: "Clemson University"
-courses:
-
-  * "Probability and Stochastic Processes"
-  * "Data Analysis and Matrix Analysis"
-  * "Mathematical Programming"
-  * "Advanced Linear Programming"
-  * "Discrete Optimization"
-  * "Network Flow Programming"
-* institution: "University of Peradeniya"
-courses:
-
-  * "Linear Algebra"
-  * "Real Analysis"
-  * "Probability Theory"
-  * "Financial Mathematics"
-
-\---
+  - institution: "Clemson University"
+    courses:
+      - "Probability and Stochastic Processes"
+      - "Data Analysis and Matrix Analysis"
+      - "Mathematical Programming"
+      - "Advanced Linear Programming"
+      - "Discrete Optimization"
+      - "Network Flow Programming"
+  - institution: "University of Peradeniya"
+    courses:
+      - "Linear Algebra"
+      - "Real Analysis"
+      - "Probability Theory"
+      - "Financial Mathematics"
+---
 
 ## Hey! I’m Vikum.
+
+{{< vikum-profile >}}
 
 I’m a mathematics researcher and educator at Clemson University, where I’m continuing doctoral study in Mathematical Sciences. I’m interested in combinatorics, discrete dynamical systems, graph theory, and cryptography, and I use Python to explore examples, visualize patterns, and test conjectures.
 
@@ -39,7 +36,7 @@ Before Clemson, I completed my **B.Sc. (Honours) in Mathematics at the Universit
 
 {{< vikum-coursework >}}
 
-{{< vikum-document path="papers/bulgarian-solitaire.pdf" label="Read my master’s project manuscript" >}}
+{{< vikum-document path="papers/masters-project.pdf" label="Read my master’s project" >}}
 
 ## Research
 
@@ -53,7 +50,7 @@ Working with Dr. Svetlana Poznanović, I study what happens when we track indivi
 
 My earlier research at the University of Peradeniya explored encryption constructions based on Collatz sequences and graph labeling. I implemented proposed encryption and decryption algorithms in Python and coauthored the following papers:
 
-{{< vikum-document path="papers/collatz-cryptography.pdf" label="Collatz conjecture–driven cryptographic framework" meta="Journal of Discrete Mathematical Sciences \& Cryptography · 2026" >}}
+{{< vikum-document path="papers/collatz-cryptography.pdf" label="Collatz conjecture–driven cryptographic framework" meta="Journal of Discrete Mathematical Sciences & Cryptography · 2026" >}}
 
 {{< vikum-document path="papers/snake-graphs-encryption.pdf" label="Symmetric encryption using snake graphs and supermagic covering" meta="Journal of the National Science Foundation of Sri Lanka · 2024" >}}
 
@@ -66,4 +63,3 @@ Alongside my academic work, I’m interested in applying mathematical and comput
 ## Contact
 
 I welcome conversations about mathematics, research, teaching, and computational projects. You can reach me at [vbandar@clemson.edu](mailto:vbandar@clemson.edu).
-
