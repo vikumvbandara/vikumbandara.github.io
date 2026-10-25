@@ -82,15 +82,11 @@ Working with Dr. Svetlana Poznanović, I study what happens when we track indivi
 
 {{< vikum-document path="papers/bulgarian-solitaire.pdf" label="Read the preprint" >}}
 
-### Collatz sequences and cryptography
+### Cryptography and graph theory
 
-At the University of Peradeniya, I worked with Dr. Rajitha Ranasinghe on relationships among Collatz sequences and their applications to cryptography. I implemented proposed encryption and decryption algorithms in Python. This work resulted in our coauthored paper, “Collatz conjecture–driven cryptographic framework.”
+At the University of Peradeniya, I worked with Dr. Rajitha Ranasinghe on encryption constructions based on Collatz sequences and graph labeling. I implemented proposed encryption and decryption algorithms in Python and coauthored the following papers:
 
 {{< vikum-document path="papers/collatz-cryptography.pdf" label="Collatz conjecture–driven cryptographic framework" meta="Journal of Discrete Mathematical Sciences & Cryptography · 2026" >}}
-
-### Graph theory and symmetric encryption
-
-I also worked with Dr. Rajitha Ranasinghe on graph-labeling constructions for symmetric encryption using snake graphs and supermagic coverings. This research resulted in a paper coauthored with Dr. Ranasinghe and A. M. S. L. K. Athapaththu.
 
 {{< vikum-document path="papers/snake-graphs-encryption.pdf" label="Symmetric encryption using snake graphs and supermagic covering" meta="Journal of the National Science Foundation of Sri Lanka · 2024" >}}
 

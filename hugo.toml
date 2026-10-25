@@ -1,11 +1,7 @@
 baseURL = 'https://vikumvbandara.github.io/vikumbandara.github.io/'
 locale = 'en-us'
 title = 'Vikum Bandara'
-theme = 'hugo-theme-console'
+disableKinds = ['taxonomy', 'term', 'RSS']
 
-[params]
-  animateStyle = ''
-
-  [[params.navlinks]]
-    name = 'About'
-    url = 'about/'
+[markup.goldmark.renderer]
+  unsafe = false
