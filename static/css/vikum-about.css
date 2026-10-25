@@ -73,6 +73,9 @@ h3 { font-size: 15px; margin: 27px 0 12px; }
 p { margin: 0 0 19px; }
 strong { font-weight: 700; }
 .about-content img { display: block; max-width: 100%; height: auto; margin: 24px 0; }
+.profile-photo { float: right; width: 120px; max-width: 30%; margin: 0 0 18px 18px; }
+.about-content .profile-photo img { display: block; width: 100%; height: auto; margin: 0; border-radius: 4px; }
+.about-content h2 { clear: both; }
 .coursework { margin: 24px 0; }
 .coursework summary { color: var(--link); cursor: pointer; width: fit-content; max-width: 100%; }
 .coursework summary:hover { text-decoration: underline; text-underline-offset: 4px; }
