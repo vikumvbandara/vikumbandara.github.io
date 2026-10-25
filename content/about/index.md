@@ -48,7 +48,7 @@ My mathematical training spans probability, stochastic processes, linear algebra
 
 
 
-Working with Dr. Svetlana Poznanović, I study variants of Bulgarian solitaire that track individual labeled cells.
+Working with Dr. Svetlana Poznanović, I study Generalizations of Bulgarian solitaire with distinguishable cells.
 
 
 
