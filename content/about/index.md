@@ -28,11 +28,11 @@ This website is a place to share my research, projects, and mathematical interes
 
 
 
-I earned my \*\*M.S. in Mathematical Sciences from Clemson University in December 2025\*\*, with research focused on combinatorics and discrete dynamics.
+I earned my M.S. in Mathematical Sciences from Clemson University in December 2025, with research focused on combinatorics and discrete dynamics.
 
 
 
-Before joining Clemson, I completed my \*\*B.Sc. (Honours) in Mathematics at the University of Peradeniya, Sri Lanka, in September 2022\*\*, with a minor in Physics.
+Before joining Clemson, I completed my B.Sc. (Honours) in Mathematics at the University of Peradeniya, Sri Lanka, in September 2022, with a minor in Physics.
 
 
 
