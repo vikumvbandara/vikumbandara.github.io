@@ -1,27 +1,42 @@
 \---
 
 title: "About"
+
 type: "vikum-about"
+
 draft: false
+
 description: "Vikum Bandara — mathematics researcher and educator at Clemson University, working in combinatorics, discrete dynamics, and cryptography."
+
 coursework:
 
-* institution: "Clemson University"
-courses:
+&#x20; - institution: "Clemson University"
 
-  * "Probability and Stochastic Processes"
-  * "Data Analysis and Matrix Analysis"
-  * "Mathematical Programming"
-  * "Advanced Linear Programming"
-  * "Discrete Optimization"
-  * "Network Flow Programming"
-* institution: "University of Peradeniya"
-courses:
+&#x20;   courses:
 
-  * "Linear Algebra"
-  * "Real Analysis"
-  * "Probability Theory"
-  * "Financial Mathematics"
+&#x20;     - "Probability and Stochastic Processes"
+
+&#x20;     - "Data Analysis and Matrix Analysis"
+
+&#x20;     - "Mathematical Programming"
+
+&#x20;     - "Advanced Linear Programming"
+
+&#x20;     - "Discrete Optimization"
+
+&#x20;     - "Network Flow Programming"
+
+&#x20; - institution: "University of Peradeniya"
+
+&#x20;   courses:
+
+&#x20;     - "Linear Algebra"
+
+&#x20;     - "Real Analysis"
+
+&#x20;     - "Probability Theory"
+
+&#x20;     - "Financial Mathematics"
 
 \---
 
