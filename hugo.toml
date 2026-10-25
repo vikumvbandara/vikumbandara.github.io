@@ -1,4 +1,4 @@
-baseURL = 'https://vikumbandara.github.io/'
+baseURL = 'https://vikumvbandara.github.io/vikumbandara.github.io/'
 locale = 'en-us'
 title = 'Vikum Bandara'
 theme = 'hugo-theme-console'
@@ -8,4 +8,4 @@ theme = 'hugo-theme-console'
 
   [[params.navlinks]]
     name = 'About'
-    url = '/about/'
+    url = 'about/'
