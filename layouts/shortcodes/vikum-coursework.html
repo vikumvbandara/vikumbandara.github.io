@@ -1,0 +1,13 @@
+<details class="coursework">
+  <summary>View selected university coursework</summary>
+  <div class="coursework-content">
+    {{ range .Page.Params.coursework }}
+    <section class="coursework-group" aria-label="{{ .institution }} coursework">
+      <h3>{{ .institution }}</h3>
+      <ul>
+        {{ range .courses }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    </section>
+    {{ end }}
+  </div>
+</details>
