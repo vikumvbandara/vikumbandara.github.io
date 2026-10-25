@@ -1,4 +1,4 @@
-\---
+---
 
 title: "About"
 
@@ -38,7 +38,7 @@ coursework:
 
 &#x20;     - "Financial Mathematics"
 
-\---
+---
 
 
 
