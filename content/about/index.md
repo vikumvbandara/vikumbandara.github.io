@@ -42,32 +42,30 @@ Before Clemson, I completed my **B.Sc. (Honours) in Mathematics at the Universit
 
 ### Bulgarian solitaire with distinguishable cells
 
-Working with Dr. Svetlana Poznanović, I study what happens when we track individual cells in Bulgarian solitaire. A configuration can return to its original shape before its labeled cells return to their original positions.
-
-Our coauthored preprint connects these movements with Ferrers diagrams, permutation cycles, and periodic orbit lengths. I use Python for computational experiments and visualization.
+Working with Dr. Svetlana Poznanović, I study what happens when we track individual cells in Bulgarian solitaire. A configuration can return to its original shape before its labeled cells return to their original positions. Our coauthored preprint connects these movements with Ferrers diagrams, permutation cycles, and periodic orbit lengths.
 
 {{< vikum-document path="papers/bulgarian-solitaire.pdf" label="Read the preprint" >}}
 
-### Cryptography and graph theory
+### Collatz sequences and cryptography
 
-My earlier research at the University of Peradeniya explored encryption constructions based on Collatz sequences and graph labeling. I implemented proposed encryption and decryption algorithms in Python and coauthored the following papers:
+At the University of Peradeniya, I worked with Dr. Rajitha Ranasinghe on relationships among Collatz sequences and their applications to cryptography. I implemented proposed encryption and decryption algorithms in Python. This work resulted in our coauthored paper, “Collatz conjecture–driven cryptographic framework.”
 
 {{< vikum-document path="papers/collatz-cryptography.pdf" label="Collatz conjecture–driven cryptographic framework" meta="Journal of Discrete Mathematical Sciences & Cryptography · 2026" >}}
+
+### Graph theory and symmetric encryption
+
+I also worked with Dr. Rajitha Ranasinghe on graph-labeling constructions for symmetric encryption using snake graphs and supermagic coverings. This research resulted in a paper coauthored with Dr. Ranasinghe and A. M. S. L. K. Athapaththu.
 
 {{< vikum-document path="papers/snake-graphs-encryption.pdf" label="Symmetric encryption using snake graphs and supermagic covering" meta="Journal of the National Science Foundation of Sri Lanka · 2024" >}}
 
 ## Teaching
 
-Since January 2025, I have taught **Business Calculus I (MATH 1020)** at Clemson as a Graduate Teacher of Record.
-
-Previously, I served as a teaching assistant at Clemson and the University of Peradeniya, supporting courses in precalculus, calculus, differential equations, and linear algebra.
+Since January 2025, I have taught **Business Calculus I (MATH 1020)** at Clemson as a Graduate Teacher of Record. Previously, I served as a teaching assistant at Clemson and the University of Peradeniya, supporting courses in precalculus, calculus, differential equations, and linear algebra.
 
 Alongside my academic work, I’m interested in applying mathematical and computational methods to quantitative research in financial markets.
 
 ## Contact
 
-I welcome conversations about mathematics, research, teaching, and computational projects.
+I welcome conversations about mathematics, research, teaching, and computational projects. You can reach me at [vbandar@clemson.edu](mailto:vbandar@clemson.edu).
 
-[Email me at vbandar@clemson.edu](mailto:vbandar@clemson.edu)
-
-{{< vikum-document path="papers/vikum-bandara-cv.pdf" label="View my CV" >}}
+{{< vikum-document path="papers/vikum-bandara-cv.pdf" label="Download my CV" >}}
