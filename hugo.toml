@@ -1,4 +1,5 @@
-baseURL = 'https://vikumvbandara.github.io/'locale = 'en-us'
+baseURL = 'https://vikumvbandara.github.io/'
+locale = 'en-us'
 title = 'Vikum Bandara'
 disableKinds = ['taxonomy', 'term', 'RSS']
 
